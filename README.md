@@ -1,6 +1,8 @@
 # MCST/Pterodactyl Panel Images
 
-Forked images from SoftwareNoob
+> [!CAUTION]
+> There is 99% chance that these images work on here.
+> Please use https://github.com/bijju089/panel-images/ for maintenaned images.
 
 ### Supported Platforms
 
